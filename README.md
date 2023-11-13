@@ -1,6 +1,6 @@
 ## ERC-721 Contract Overview
 
-This particular repo is the result of the forth task assigned by Chat GPT. I provided the whole idea of the "Solidity Chat GPT Test Tasks Project" in this repo. Feel free to read it. Below is the task description provided by Chat GPT:
+This particular repo is the result of the forth task assigned by Chat GPT. I provided the whole idea of the "Solidity Chat GPT Test Tasks Project" [in this repo](https://github.com/sergeibanov/solidity-chatGPT-task-contract). Feel free to read it. Below is the task description provided by Chat GPT:
 
 ## Task Description
 
